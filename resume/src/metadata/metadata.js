@@ -119,7 +119,7 @@ Opracowałem niestandardowy motyw dla banku, który oferuje wiele zaawansowanych
     {
       header: 'Web aplikacja wraz z narzędziem do analizy emocjonalnej młodych ludzi' ,
       skills: ['html', 'css / scss', 'js', 'vite', 'vue', 'typescript', 'element-plus', 'strapi', 'hetzner cloud', 'docker', 'docker-compose', 'caprover'],
-      contents: `Web aplikacja oparta na Vue.js umożliwiająca wykonywanie testu po rejestracji i zalogowaniu się. Test daje możliwość wyświetlenia feedbacku oraz raportu do pobrania w formacie .pdf. Aplikacja posiada 3 typy kont, blog, panel użytkownika oraz zarządzanie treścią za pomocą headless cms Strapi`
+      contents: `Web aplikacja oparta na Vue.js, która umożliwia użytkownikom wykonywanie testów po rejestracji i zalogowaniu. Po zakończeniu testu użytkownik otrzymuje feedback oraz może pobrać raport w formacie PDF. Aplikacja obsługuje trzy rodzaje kont: blog, panel użytkownika oraz moduł zarządzania treścią z wykorzystaniem headless CMS Strapi. Dzięki temu użytkownicy mają dostęp do różnych funkcjonalności w ramach jednej aplikacji, a treści są łatwo zarządzane i aktualizowane.`
     },
   ]
 };
